@@ -13,6 +13,6 @@ ThirdEye price Tag template is given. Responsive on phone, laptops and tablets.
 
 ---
 
-<img src="" alt="Phone Demo" width=750 height=500 />
+<img src="https://github.com/RAW-si18/Price-Tag/blob/main/phone%20demo.png" alt="Phone Demo" width=200 height=400 />
 
 ---
